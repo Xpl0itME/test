@@ -44,8 +44,8 @@ class CustomInstallCommand(install):
             print(f"An error occurred: {e}")
 
 setup(
-    name='yelp-cgeom1',
-    version='0.1',
+    name='azureml-contrib-daskonbatch',
+    version='1.0.0',
     packages=find_packages(),
     install_requires=[
         'requests',
